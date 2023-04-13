@@ -21,3 +21,12 @@ header {
     display: inline-block;
     margin: 0 16px;
 }
+
+.titulo {
+    color: black;
+    font-size: 31px;
+}
+
+.paragrafo {
+    color: black;
+}
