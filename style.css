@@ -9,7 +9,7 @@
  
 header {
     background-color: #FFE4C4;
-    color: #FFFFF0;
+    color: #8B4513;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -22,11 +22,31 @@ header {
     margin: 0 16px;
 }
 
-.titulo {
-    color: black;
-    font-size: 31px;
+
+
+h2 {
+    color: white;
+    margin-left: 10%;
+    padding: 10px;
+
 }
 
-.paragrafo {
+.paragrafo1 {
+    color: #8B4513;
+    margin-left: 10%;
+    margin-top: 10px;
+
+}
+
+img {
+    margin-left: 8%;
+}
+
+.paragrafo2 {
     color: black;
+    text-align: center;
+}
+.titulo2 {
+    color: black;
+   text-align: center;
 }
